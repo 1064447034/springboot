@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: service2
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: zbs39170
+Implementation-Vendor-Id: com.boot.lean
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/springbootqu
+ ick/service2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
