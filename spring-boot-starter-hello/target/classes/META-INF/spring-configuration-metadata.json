@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wisely.spring_boot_starter_hello.HelloServiceProperties",
+      "name": "hello",
+      "type": "com.wisely.spring_boot_starter_hello.HelloServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wisely.spring_boot_starter_hello.HelloServiceProperties",
+      "name": "hello.msg",
+      "type": "java.lang.String"
+    }
+  ]
+}

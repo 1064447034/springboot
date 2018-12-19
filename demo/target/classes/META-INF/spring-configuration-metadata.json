@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.AuthorSettings",
+      "name": "author",
+      "type": "com.example.demo.AuthorSettings"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.demo.AuthorSettings",
+      "name": "author.age",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.example.demo.AuthorSettings",
+      "name": "author.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
